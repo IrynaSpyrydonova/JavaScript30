@@ -3,7 +3,7 @@
 
 Nº | Day        | Description            | Status
 --|-----------|------------------------|---
-01|07/08/2020 |[JavaScript Drum Kit](01_JavaScript_Drum_Kit/) | ✅
+01|07/08/2020 |[JavaScript Drum Kit](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/01_JavaScript%20_Drum_Kit) | ✅
 02|x/x/2020 |[JS and CSS Clock]() | 
 03|x/x/2020 |[CSS Variables]() | 
 04|x/x/2020 |[Array Cardio Day 01]() | 
