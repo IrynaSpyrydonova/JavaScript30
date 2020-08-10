@@ -1,8 +1,8 @@
-## Day 01 - JavaScript Drum Kit  ✅
+## Day 01 - JavaScript JS and CSS Clock  ✅
 
-### Date 07/08/2020
+### Date 010/08/2020
 
-![JavaScript Drum Kit](./Screenshot.png)
+![JavaScript JS and CSS Clock](./Screenshot.png)
 
 ### Things have been learned:
 - `transform-origin` - CSS property sets the origin for an element's transformations. The transformation origin is the point around which a transformation is applied;
