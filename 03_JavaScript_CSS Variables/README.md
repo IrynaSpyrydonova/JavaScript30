@@ -9,7 +9,10 @@
 
 -  The `setProperty()` method sets a new or modifies an existing CSS property in a CSS declaration block.
 
-    #### Syntax `object.setProperty(propertyname, value, priority)`;
+Syntax 
+```js
+object.setProperty(propertyname, value, priority);
+```
 
 
 
