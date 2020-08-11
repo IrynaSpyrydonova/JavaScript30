@@ -7,8 +7,8 @@ Nº | Day        | Description            | Status
 02|10/08/2020 |[JS and CSS Clock](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/02_JavaScript_JsClock) | ✅
 03|10/08/2020 |[CSS Variables](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/03_JavaScript_CSS%20Variables) | ✅
 04|10/08/2020 |[Array Cardio Day 01](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/04_JavaScript_Array_Cardio) | ✅
-05|10/08/2020 |[Flex Panel Image Gallery]() | ✅
-06|x/x/2020 |[Type Ahead]() | 
+05|10/08/2020 |[Flex Panel Image Gallery](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/05_JavaScript_Image_Gallery) | ✅
+06|11/08/2020 |[Type Ahead]() | ✅
 07|x/x/2020 |[Array Cardio Day 02]() | 
 08|x/x/2020 |[Fun with HTML5 Canvas]() | 
 09|x/x/2020 |[Dev Tools Domination]() | 
