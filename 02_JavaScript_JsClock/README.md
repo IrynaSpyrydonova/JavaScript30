@@ -1,4 +1,4 @@
-## Day 01 - JavaScript JS and CSS Clock  ✅
+## Day 02 - JavaScript JS and CSS Clock  ✅
 
 ### Date 010/08/2020
 

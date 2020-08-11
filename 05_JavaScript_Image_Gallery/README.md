@@ -1,4 +1,4 @@
-## Day 03 - JavaScript Flex Panel Image Gallery  ✅
+## Day 02 - JavaScript Flex Panel Image Gallery  ✅
 
 ### Date 10/08/2020
 

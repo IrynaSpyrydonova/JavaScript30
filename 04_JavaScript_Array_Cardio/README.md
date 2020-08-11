@@ -1,4 +1,4 @@
-## Day 03 - JavaScript Array Cardio Day 01  ✅
+## Day 02 - JavaScript Array Cardio Day 01  ✅
 
 ### Date 10/08/2020
 

@@ -1,4 +1,4 @@
-## Day 03 - JavaScript CSS Variables  ✅
+## Day 02 - JavaScript CSS Variables  ✅
 
 ### Date 10/08/2020
 
