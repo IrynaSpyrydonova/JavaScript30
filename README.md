@@ -9,8 +9,8 @@ Nº | Day        | Description            | Status
 04|10/08/2020 |[Array Cardio Day 01](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/04_JavaScript_Array_Cardio) | ✅
 05|10/08/2020 |[Flex Panel Image Gallery](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/05_JavaScript_Image_Gallery) | ✅
 06|11/08/2020 |[Type Ahead](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/06_JavaScript_Type_Ahead) | ✅
-07|11/08/2020 |[Array Cardio Day 02]() | ✅
-08|x/x/2020 |[Fun with HTML5 Canvas]() | 
+07|11/08/2020 |[Array Cardio Day 02](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/07_JavaScript_Array_Cardio2) | ✅
+08|12/08/2020 |[Fun with HTML5 Canvas]() | ✅
 09|x/x/2020 |[Dev Tools Domination]() | 
 10|x/x/2020 |[Hold Shift and Check Checkboxes]() | 
 11|x/x/2020 |[Custom Video Player]() | 
