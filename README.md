@@ -12,7 +12,7 @@ Nº | Day        | Description            | Status
 07|11/08/2020 |[Array Cardio Day 02](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/07_JavaScript_Array_Cardio2) | ✅
 08|12/08/2020 |[Fun with HTML5 Canvas](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/08_JavaScript_Canvas) | ✅
 09|12/08/2020 |[Dev Tools Domination](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/09_JavaScript_Dev%20_Tools_Domination) | ✅
-10|13/08/2020 |[Hold Shift and Check Checkboxes](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/10_JavaScript_Dev%20_Hold%20Shift%20and%20Check%20Checkboxes) | ✅
+10|13/08/2020 |[Hold Shift and Check Checkboxes](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/10_JavaScript_Hold%20Shift%20and%20Check%20Checkboxes) | ✅
 11|13/08/2020 |[Custom Video Player]() | ✅ 
 12|x/x/2020 |[Key Sequence Detection]() | 
 13|x/x/2020 |[Slide in on Scroll]() | 

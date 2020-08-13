@@ -1,4 +1,4 @@
-## Day 05 - JavaScript Dev Tools Domination  ✅
+## Day 05 - JavaScript Custom Video Player ✅
 
 ### Date 13/08/2020
 
@@ -6,20 +6,18 @@
 
 ### Things have been learned:
 
-- The `KeyboardEvent.shiftKey` read-only property is a Boolean that indicates if the shift key was pressed (true) or not (false) when the event occurred.
+- The `currentTime property` sets or returns the current position (in seconds) of the audio/video playback.
 
-- The JavaScript `this` keyword refers to the object it belongs to.
-It has different values depending on where it is used:
+    When setting this property, the playback will jump to the specified position.
 
-    In a method, this refers to the owner object.
-    Alone, this refers to the global object.
-    In a function, this refers to the global object.
-    In a function, in strict mode, this is undefined.
-    In an event, this refers to the element that received the event.
-    Methods like call(), and apply() can refer this to any object.
 
-- The `checked property` sets or returns the checked state of a checkbox.
 
-    This property reflects the HTML checked attribute.
+- The `duration` property returns the length of the current audio/video, in seconds.
 
-To challenge myself I added two buttons  with `checkall` and `uncheck` all, as well as a function to count and display the number of checked boxes.
+- The `flex-basis` CSS property sets the initial main size of a flex item. It sets the size of the content box unless otherwise set with box-sizing.
+
+- The HTMLElement.`offsetWidth` read-only property returns the layout width of an element as an integer.
+
+    Typically, offsetWidth is a measurement in pixels of the element's CSS width, including any borders, padding, and vertical scrollbars (if rendered). It does not include the width of pseudo-elements such as ::before or ::after.
+
+To challenge myself I have added function to display video time, possibility to play and pause video with pressing the space bar, and open or close the full screen video mode. 
