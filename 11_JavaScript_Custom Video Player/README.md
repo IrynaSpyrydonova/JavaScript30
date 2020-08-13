@@ -2,7 +2,7 @@
 
 ### Date 13/08/2020
 
-![Dev Tools Domination](./Screenshot.png)
+![Custom Video Player](./Screenshot.png)
 
 ### Things have been learned:
 
