@@ -14,8 +14,8 @@ Nº | Day        | Description            | Status
 09|12/08/2020 |[Dev Tools Domination](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/09_JavaScript_Dev%20_Tools_Domination) | ✅
 10|13/08/2020 |[Hold Shift and Check Checkboxes](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/10_JavaScript_Hold%20Shift%20and%20Check%20Checkboxes) | ✅
 11|13/08/2020 |[Custom Video Player](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/11_JavaScript_Custom%20Video%20Player) | ✅ 
-12|14/08/2020 |[Key Sequence Detection]() | ✅
-13|14/08/2020 |[Slide in on Scroll]() | 
+12|14/08/2020 |[Key Sequence Detection](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/12_JavaScript_Key%20Sequence%20Detection) | ✅
+13|14/08/2020 |[Slide in on Scroll]() | ✅
 14|x/x/2020 |[JavaScript References VS Copying]() | 
 15|x/x/2020 |[LocalStorage]() | 
 16|x/x/2020 |[Mouse Move Shadow]() | 
