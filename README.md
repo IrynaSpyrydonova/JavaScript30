@@ -19,7 +19,7 @@ Nº | Day        | Description            | Status
 14|25/08/2020 |[JavaScript References VS Copying](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/14_JavaScript_References%20VS%20Copying) | ✅
 15|26/08/2020 |[LocalStorage](https://github.com/IrynaSpyrydonova/JavaScript30/tree/local_storage/15_JavaScript_LocalStorage) | ✅
 16|26/08/2020 |[Mouse Move Shadow]() |✅ 
-17|x/x/2020 |[Sort Without Articles]() | 
+17|26/08/2020 |[Sort Without Articles]() | ✅
 18|x/x/2020 |[Adding Up Times with Reduce]() | 
 19|x/x/2020 |[Webcam Fun]() | 
 20|x/x/2020 |[Speech Detection]() | 
