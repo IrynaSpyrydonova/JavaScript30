@@ -16,9 +16,9 @@ Nº | Day        | Description            | Status
 11|13/08/2020 |[Custom Video Player](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/11_JavaScript_Custom%20Video%20Player) | ✅ 
 12|14/08/2020 |[Key Sequence Detection](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/12_JavaScript_Key%20Sequence%20Detection) | ✅
 13|14/08/2020 |[Slide in on Scroll](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/13_JavaScript_Slide_in_on_Scroll) | ✅
-14|25/08/2020 |[JavaScript References VS Copying]() | ✅
-15|x/x/2020 |[LocalStorage]() | 
-16|x/x/2020 |[Mouse Move Shadow]() | 
+14|25/08/2020 |[JavaScript References VS Copying](https://github.com/IrynaSpyrydonova/JavaScript30/tree/master/14_JavaScript_References%20VS%20Copying) | ✅
+15|26/08/2020 |[LocalStorage]() | ✅
+16|26/08/2020 |[Mouse Move Shadow]() | 
 17|x/x/2020 |[Sort Without Articles]() | 
 18|x/x/2020 |[Adding Up Times with Reduce]() | 
 19|x/x/2020 |[Webcam Fun]() | 
